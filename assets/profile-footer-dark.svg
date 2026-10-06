@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="164" viewBox="0 0 1200 164" role="img" aria-labelledby="title desc">
+<title id="title">Learn. Build. Iterate.</title><desc id="desc">SevenJL. Speak less do more...</desc>
+<defs><linearGradient id="accent" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#7c83fd"/><stop offset="1" stop-color="#55d6be"/></linearGradient><pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#30363d" stroke-opacity=".4"/></pattern></defs>
+<rect x="1" y="1" width="1198" height="162" rx="26" fill="#0d1117" stroke="#30363d"/>
+<g font-family="Segoe UI, Arial, sans-serif"><path d="M49 47H157" stroke="url(#accent)" stroke-width="4" stroke-linecap="round"/><text x="48" y="91" fill="#f0f6fc" font-size="30" font-weight="700">Learn. Build. Iterate.</text><text x="48" y="124" fill="#a7b6ca" font-size="15">Small steps. Real projects. Keep moving.</text><text x="1149" y="86" text-anchor="end" fill="#55d6be" font-size="21" font-weight="700">SEVENJL</text><text x="1149" y="118" text-anchor="end" fill="#a7b6ca" font-size="13">Speak less do more...</text></g></svg>

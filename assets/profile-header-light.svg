@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-labelledby="title desc">
+<title id="title">Hi, I am SevenJL</title><desc id="desc">Speak less. Do more. Java and Go developer exploring useful software.</desc>
+<defs><linearGradient id="accent" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#7c83fd"/><stop offset="1" stop-color="#087f79"/></linearGradient><pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#d9e3ef" stroke-opacity=".4"/></pattern></defs>
+<rect x="1" y="1" width="1198" height="378" rx="26" fill="#f4f7fb" stroke="#d9e3ef"/>
+<g font-family="Segoe UI, Arial, sans-serif"><rect x="2" y="2" width="1196" height="376" rx="25" fill="url(#grid)"/>
+<rect x="48" y="40" width="202" height="30" rx="15" fill="#ffffff" stroke="#d9e3ef"/><circle cx="66" cy="55" r="4" fill="#087f79"/><text x="79" y="60" fill="#5d6e84" font-size="12" letter-spacing="1.6">SEVENJL / DEVELOPER</text>
+<text x="46" y="155" fill="#19273b" font-size="72" font-weight="800" letter-spacing="-3">Hi, I'm SevenJL.</text>
+<text x="48" y="218" fill="url(#accent)" font-size="46" font-weight="700" letter-spacing="-1">Speak less. Do more.</text>
+<text x="50" y="261" fill="#5d6e84" font-size="18">Backend development · AI exploration · Open source</text>
+<text x="50" y="329" fill="#087f79" font-size="13" letter-spacing="2">JAVA / GO / BUILDING IDEAS INTO CODE</text>
+<rect x="773" y="78" width="376" height="238" rx="18" fill="#ffffff" stroke="#d9e3ef"/>
+<circle cx="797" cy="101" r="5" fill="#ef797f"/><circle cx="815" cy="101" r="5" fill="#e5b567"/><circle cx="833" cy="101" r="5" fill="#55c795"/>
+<text x="1130" y="106" text-anchor="end" fill="#5d6e84" font-size="11">profile.js</text><path d="M774 121H1148" stroke="#d9e3ef"/>
+<g font-family="Consolas, monospace" font-size="16"><text x="797" y="154" fill="#5d6e84">// one step at a time</text><text x="797" y="190" fill="#087f79">const developer = &#123;</text><text x="816" y="224" fill="#19273b">name: 'SevenJL',</text><text x="816" y="258" fill="#19273b">mindset: 'keep building'</text><text x="797" y="292" fill="#087f79">&#125;;</text></g></g></svg>
